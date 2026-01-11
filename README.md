@@ -14,23 +14,38 @@ Python, Pandas, NumPy, Scikit-learn, Folium, Jupyter Notebook
 
 Accident-Hotspot-Analysis/
 │
+
 ├── vizag_5000.csv
+
 │   → Traffic accident dataset containing latitude and longitude of accident locations.
+
 │
+
 │
+
 ├── Clustering.ipynb
+
 │   → Accident hotspot detection using clustering algorithms.
+
 │      - Groups accident locations based on geographical proximity
+
 │      - Identifies high-risk accident-prone zones (hotspots)
+
 │      - Generates cluster centers
+
 │
 ├── Hotspots.html
+
 │   → Interactive map visualization of detected accident hotspots.
+
 │      - Displays clustered hotspot locations
+
 │      - Allows zooming and exploration of accident-prone areas
+
 │
 └── README.md
     → Project documentation and usage instructions.
+    
 
 
 # How to run the project
